@@ -16,9 +16,6 @@
 </head>
 
 <body id="page-top">
-    <script src="/__/firebase/6.4.2/firebase-app.js"></script>
-    <script src="/__/firebase/init.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/6.4.2/firebase-app.js"></script>
     <div id="wrapper">
         <nav class="navbar navbar-dark align-items-start sidebar sidebar-dark accordion bg-gradient-primary p-0" style="font-size: 14px;width: 250px;">
             <div class="container-fluid d-flex flex-column p-0">

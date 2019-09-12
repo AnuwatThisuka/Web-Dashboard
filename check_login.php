@@ -25,8 +25,7 @@ $objCon = mysqli_connect($serverName,$userName,$userPassword,$dbName);
 			if($objResult["Status"] == "ADMIN")
 			{
 				header("location:admin.php");
-				echo "แอดมินนะจ๊ะ";
-				echo "แอดแอด";
+
 			}
 			else
 			{
